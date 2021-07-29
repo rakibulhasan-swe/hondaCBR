@@ -10,3 +10,9 @@ body{
 .grayscale_effect {
     filter: grayscale(100%);
 }
+.extra-color{
+    color:#E76F51;
+}
+.fas{
+    color: #E76F51;
+}
