@@ -1,0 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-header-color{
+    background-color: #264653;
+}
+.header-div h1{
+    font-size: 48px;
+}
