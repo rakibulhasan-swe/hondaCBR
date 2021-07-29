@@ -7,3 +7,6 @@ body{
 .header-div h1{
     font-size: 48px;
 }
+.grayscale_effect {
+    filter: grayscale(100%);
+}
